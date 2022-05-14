@@ -1,2 +1,3 @@
-# Final_CMSSSS
- 
+Automated Visual Inspection of Silicon Detectors in CMS Experiment
+
+In the CMS experiment at CERN, Geneva, a large number of HGCAL sensor modules are fabricated in advanced laboratories around the world. Each sensor module contains about 700 checkpoints for visual inspection thus making it almost impossible to carry out such inspection manually. As artificial intelligence is more and more widely used in manufacturing, traditional detection technologies are gradually being intelligent. In order to more accurately evaluate the checkpoints, we propose to use deep learning-based object detection techniques to detect manufacturing defects in testing large numbers of modules automatically.
